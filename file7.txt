@@ -1,4 +1,4 @@
-﻿GraphType = "SocialNetwork"
+GraphType = "SocialNetwork"
 GraphName = "MyFriends"
 
 VertexType = "Person"
