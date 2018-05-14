@@ -1,4 +1,4 @@
-﻿GraphType = "MovieGraph"
+GraphType = "MovieGraph"
 GraphName = "MyFavoriteMovies"
 
 VertexType = "Movie", "Actor", "Director"

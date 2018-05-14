@@ -1,4 +1,4 @@
-﻿GraphType = "GraphPoet"
+GraphType = "GraphPoet"
 GraphName = "LabPoet"
 
 VertexType = "Word"
