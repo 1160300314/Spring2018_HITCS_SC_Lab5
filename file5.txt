@@ -136,7 +136,6 @@ Vertex = <"Movie100", "Movie", <"2008", "3", "6.6">>
 EdgeType = "MovieActorRelation", "MovieDirectorRelation", "SameMovieHyperEdge"
 Edge = <"M1D6", "MovieDirectorRelation", "-1", "Movie1", "Director6", "No">
 Edge = <"M1A7", "MovieActorRelation", "4", "Movie1", "Actor7", "No">
-
 Edge = <"M2D8", "MovieDirectorRelation", "-1", "Movie2", "Director8", "No">
 Edge = <"M2A13", "MovieActorRelation", "4", "Movie2", "Actor13", "No">
 Edge = <"M3D8", "MovieDirectorRelation", "-1", "Movie3", "Director8", "No">
